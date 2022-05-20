@@ -1,0 +1,594 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/esha/ChineseBedroom/CBRBedrFloor/SHCBR_BedrFloor.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "esha",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-05-15T15:50:27Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "SHCBR_BedrFloor-1",
+			"name" : "SHCBR_BedrFloor",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 92,
+				"values" : [
+					[ 500, -22, 0 ],
+					[ 500, -11.99999, 0 ],
+					[ 200, -22, 0 ],
+					[ 300, -22, 0 ],
+					[ 400.0001, -22, 0 ],
+					[ 200, -11.99999, 0 ],
+					[ 300, -11.99999, 0 ],
+					[ 400.0001, -11.99999, 0 ],
+					[ 150, -11.99999, 0 ],
+					[ 150, -22, 0 ],
+					[ 200, -22, -500 ],
+					[ 300, -22, -500 ],
+					[ 400.0001, -22, -500 ],
+					[ 200, -11.99999, -500 ],
+					[ 300, -11.99999, -500 ],
+					[ 400.0001, -11.99999, -500 ],
+					[ 500, -11.99999, -500 ],
+					[ 500, -22, -500 ],
+					[ 150, -22, -500 ],
+					[ 150, -11.99999, -500 ],
+					[ 200, -22, -100 ],
+					[ 200, -22, -200 ],
+					[ 200, -22, -300 ],
+					[ 200, -22, -400.0001 ],
+					[ 300, -22, -100 ],
+					[ 300, -22, -200 ],
+					[ 300, -22, -300 ],
+					[ 300, -22, -400.0001 ],
+					[ 400.0001, -22, -100 ],
+					[ 400.0001, -22, -200 ],
+					[ 400.0001, -22, -300 ],
+					[ 400.0001, -22, -400.0001 ],
+					[ 200, -11.99999, -400.0001 ],
+					[ 200, -11.99999, -300 ],
+					[ 200, -11.99999, -200 ],
+					[ 200, -11.99999, -100 ],
+					[ 300, -11.99999, -400.0001 ],
+					[ 300, -11.99999, -300 ],
+					[ 300, -11.99999, -200 ],
+					[ 300, -11.99999, -100 ],
+					[ 400.0001, -11.99999, -400.0001 ],
+					[ 400.0001, -11.99999, -300 ],
+					[ 400.0001, -11.99999, -200 ],
+					[ 400.0001, -11.99999, -100 ],
+					[ 500, -11.99999, -100 ],
+					[ 500, -11.99999, -200 ],
+					[ 500, -11.99999, -300 ],
+					[ 500, -11.99999, -400.0001 ],
+					[ 500, -22, -100 ],
+					[ 500, -22, -200 ],
+					[ 500, -22, -300 ],
+					[ 500, -22, -400.0001 ],
+					[ 150, -22, -100 ],
+					[ 150, -22, -200 ],
+					[ 150, -22, -300 ],
+					[ 150, -22, -400.0001 ],
+					[ 150, -11.99999, -100 ],
+					[ 150, -11.99999, -200 ],
+					[ 150, -11.99999, -300 ],
+					[ 150, -11.99999, -400.0001 ],
+					[ 100, -22, -300 ],
+					[ 100, -22, -400.0001 ],
+					[ 100, -11.99999, -300 ],
+					[ 100, -11.99999, -400.0001 ],
+					[ 100, -22, -200 ],
+					[ 100, -11.99999, -200 ],
+					[ 100, -11.99999, -500 ],
+					[ 100, -22, -500 ],
+					[ 0, -22, -300 ],
+					[ 0, -22, -400.0001 ],
+					[ 0, -11.99999, -300 ],
+					[ 0, -11.99999, -400.0001 ],
+					[ 0, -11.99999, -500 ],
+					[ 0, -22, -500 ],
+					[ 0, -22, -200 ],
+					[ 0, -11.99999, -200 ],
+					[ -100, -22, -300 ],
+					[ -100, -22, -400.0001 ],
+					[ -100, -11.99999, -300 ],
+					[ -100, -11.99999, -400.0001 ],
+					[ -100, -11.99999, -500 ],
+					[ -100, -22, -500 ],
+					[ -100, -22, -200 ],
+					[ -100, -11.99999, -200 ],
+					[ 100, -22, -195 ],
+					[ 100, -11.99999, -195 ],
+					[ 0, -22, -195 ],
+					[ 0, -11.99999, -195 ],
+					[ 150, -22, -195 ],
+					[ 150, -11.99999, -195 ],
+					[ -100, -11.99999, -195 ],
+					[ -100, -22, -195 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"Floor_Bed"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 1,
+				"values" : [
+					"floor"
+				]
+			},
+			"polylist" : {
+				"count" : 90,
+				"values" : [
+					[ 0, 0, 0, 48, 44, 1 ],
+					[ 0, 0, 1, 7, 4, 0 ],
+					[ 0, 0, 1, 44, 43, 7 ],
+					[ 0, 0, 2, 9, 52, 20 ],
+					[ 0, 0, 2, 20, 24, 3 ],
+					[ 0, 0, 3, 6, 5, 2 ],
+					[ 0, 0, 3, 24, 28, 4 ],
+					[ 0, 0, 4, 7, 6, 3 ],
+					[ 0, 0, 4, 28, 48, 0 ],
+					[ 0, 0, 5, 35, 56, 8 ],
+					[ 0, 0, 6, 39, 35, 5 ],
+					[ 0, 0, 7, 43, 39, 6 ],
+					[ 0, 0, 8, 9, 2, 5 ],
+					[ 0, 0, 8, 56, 52, 9 ],
+					[ 0, 0, 10, 18, 19, 13 ],
+					[ 0, 0, 10, 23, 55, 18 ],
+					[ 0, 0, 11, 27, 23, 10 ],
+					[ 0, 0, 12, 31, 27, 11 ],
+					[ 0, 0, 13, 14, 11, 10 ],
+					[ 0, 0, 13, 19, 59, 32 ],
+					[ 0, 0, 14, 15, 12, 11 ],
+					[ 0, 0, 15, 16, 17, 12 ],
+					[ 0, 0, 16, 47, 51, 17 ],
+					[ 0, 0, 17, 51, 31, 12 ],
+					[ 0, 0, 18, 67, 66, 19 ],
+					[ 0, 0, 19, 66, 63, 59 ],
+					[ 0, 0, 20, 52, 53, 21 ],
+					[ 0, 0, 21, 25, 24, 20 ],
+					[ 0, 0, 21, 53, 54, 22 ],
+					[ 0, 0, 22, 26, 25, 21 ],
+					[ 0, 0, 22, 54, 55, 23 ],
+					[ 0, 0, 23, 27, 26, 22 ],
+					[ 0, 0, 25, 29, 28, 24 ],
+					[ 0, 0, 26, 30, 29, 25 ],
+					[ 0, 0, 27, 31, 30, 26 ],
+					[ 0, 0, 29, 49, 48, 28 ],
+					[ 0, 0, 30, 50, 49, 29 ],
+					[ 0, 0, 31, 51, 50, 30 ],
+					[ 0, 0, 32, 36, 14, 13 ],
+					[ 0, 0, 32, 59, 58, 33 ],
+					[ 0, 0, 33, 37, 36, 32 ],
+					[ 0, 0, 33, 58, 57, 34 ],
+					[ 0, 0, 34, 38, 37, 33 ],
+					[ 0, 0, 34, 57, 56, 35 ],
+					[ 0, 0, 35, 39, 38, 34 ],
+					[ 0, 0, 36, 40, 15, 14 ],
+					[ 0, 0, 37, 41, 40, 36 ],
+					[ 0, 0, 38, 42, 41, 37 ],
+					[ 0, 0, 39, 43, 42, 38 ],
+					[ 0, 0, 40, 47, 16, 15 ],
+					[ 0, 0, 41, 46, 47, 40 ],
+					[ 0, 0, 42, 45, 46, 41 ],
+					[ 0, 0, 43, 44, 45, 42 ],
+					[ 0, 0, 44, 48, 49, 45 ],
+					[ 0, 0, 45, 49, 50, 46 ],
+					[ 0, 0, 46, 50, 51, 47 ],
+					[ 0, 0, 52, 56, 57, 53 ],
+					[ 0, 0, 53, 64, 60, 54 ],
+					[ 0, 0, 53, 88, 84, 64 ],
+					[ 0, 0, 54, 60, 61, 55 ],
+					[ 0, 0, 55, 61, 67, 18 ],
+					[ 0, 0, 57, 89, 88, 53 ],
+					[ 0, 0, 58, 62, 65, 57 ],
+					[ 0, 0, 59, 63, 62, 58 ],
+					[ 0, 0, 60, 64, 74, 68 ],
+					[ 0, 0, 62, 70, 75, 65 ],
+					[ 0, 0, 63, 71, 70, 62 ],
+					[ 0, 0, 64, 84, 86, 74 ],
+					[ 0, 0, 65, 75, 87, 85 ],
+					[ 0, 0, 65, 85, 89, 57 ],
+					[ 0, 0, 66, 72, 71, 63 ],
+					[ 0, 0, 67, 73, 72, 66 ],
+					[ 0, 0, 68, 69, 61, 60 ],
+					[ 0, 0, 68, 74, 82, 76 ],
+					[ 0, 0, 69, 73, 67, 61 ],
+					[ 0, 0, 70, 78, 83, 75 ],
+					[ 0, 0, 71, 79, 78, 70 ],
+					[ 0, 0, 72, 80, 79, 71 ],
+					[ 0, 0, 73, 81, 80, 72 ],
+					[ 0, 0, 74, 86, 91, 82 ],
+					[ 0, 0, 75, 83, 90, 87 ],
+					[ 0, 0, 76, 77, 69, 68 ],
+					[ 0, 0, 76, 82, 83, 78 ],
+					[ 0, 0, 77, 81, 73, 69 ],
+					[ 0, 0, 78, 79, 77, 76 ],
+					[ 0, 0, 79, 80, 81, 77 ],
+					[ 0, 0, 82, 91, 90, 83 ],
+					[ 0, 0, 84, 88, 89, 85 ],
+					[ 0, 0, 85, 87, 86, 84 ],
+					[ 0, 0, 87, 90, 91, 86 ]
+				]
+			},
+			"default_uv_set" : "/data/esha/ChineseBedroom/CBRBedrFloor/UV%20Sets/esha/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "SHCBR_BedrFloor",
+			"name" : "SHCBR_BedrFloor",
+			"type" : "node",
+			"label" : "Bedroom Floor",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 200,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : -22,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : -250,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 200,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : -11.99999,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : -250,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"presentation" : {
+				"type" : "Prop",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}

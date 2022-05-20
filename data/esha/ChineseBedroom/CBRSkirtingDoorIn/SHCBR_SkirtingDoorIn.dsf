@@ -1,0 +1,486 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/esha/ChineseBedroom/CBRSkirtingDoorIn/SHCBR_SkirtingDoorIn.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "esha",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "0.0",
+		"modified" : "2016-05-15T15:46:34Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "SHCBR_SkirtingDoorIn-1",
+			"name" : "SHCBR_SkirtingDoorIn",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 40,
+				"values" : [
+					[ 157.25, 0, -200.25 ],
+					[ 157.25, 0, -201.75 ],
+					[ 157.5, -11.74999, -200.25 ],
+					[ 157.5, -11.74999, -201.75 ],
+					[ 157.5, -0.24999, -201.75 ],
+					[ 157.5, -0.24999, -200.25 ],
+					[ 157.25, -0.24999, -202 ],
+					[ 157.25, -11.74999, -202 ],
+					[ 157.25, -11.99999, -201.75 ],
+					[ 157.25, -11.99999, -200.25 ],
+					[ 157.25, -11.74999, -200 ],
+					[ 157.25, -0.24999, -200 ],
+					[ 81.34571, -0.24999, -200 ],
+					[ 81.34571, -11.74999, -200 ],
+					[ 81.34571, -11.99999, -200.25 ],
+					[ 81.34571, -11.99999, -201.75 ],
+					[ 81.34571, -11.74999, -202 ],
+					[ 81.34571, -0.24999, -202 ],
+					[ 81.34571, 0, -201.75 ],
+					[ 81.34571, 0, -200.25 ],
+					[ -95.25, 0, -201.75 ],
+					[ -95.25, 0, -200.25 ],
+					[ -95.25, -11.74999, -202 ],
+					[ -95.25, -0.24999, -202 ],
+					[ -95.25, -11.99999, -200.25 ],
+					[ -95.25, -11.99999, -201.75 ],
+					[ -95.49999, -11.74999, -201.75 ],
+					[ -95.49999, -11.74999, -200.25 ],
+					[ -95.49999, -0.24999, -200.25 ],
+					[ -95.49999, -0.24999, -201.75 ],
+					[ -95.25, -0.24999, -200 ],
+					[ -95.25, -11.74999, -200 ],
+					[ -26.60582, -0.24999, -200 ],
+					[ -26.60582, -11.74999, -200 ],
+					[ -26.60582, -11.99999, -200.25 ],
+					[ -26.60582, -11.99999, -201.75 ],
+					[ -26.60582, -11.74999, -202 ],
+					[ -26.60582, -0.24999, -202 ],
+					[ -26.60582, 0, -201.75 ],
+					[ -26.60582, 0, -200.25 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"Slat_doorIn"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 1,
+				"values" : [
+					"wood"
+				]
+			},
+			"polylist" : {
+				"count" : 34,
+				"values" : [
+					[ 0, 0, 0, 5, 4, 1 ],
+					[ 0, 0, 0, 11, 5 ],
+					[ 0, 0, 0, 19, 12, 11 ],
+					[ 0, 0, 1, 18, 19, 0 ],
+					[ 0, 0, 2, 9, 8, 3 ],
+					[ 0, 0, 2, 10, 9 ],
+					[ 0, 0, 3, 4, 5, 2 ],
+					[ 0, 0, 3, 7, 6, 4 ],
+					[ 0, 0, 3, 8, 7 ],
+					[ 0, 0, 4, 6, 1 ],
+					[ 0, 0, 5, 11, 10, 2 ],
+					[ 0, 0, 6, 17, 18, 1 ],
+					[ 0, 0, 7, 16, 17, 6 ],
+					[ 0, 0, 8, 15, 16, 7 ],
+					[ 0, 0, 9, 14, 15, 8 ],
+					[ 0, 0, 10, 13, 14, 9 ],
+					[ 0, 0, 11, 12, 13, 10 ],
+					[ 0, 0, 20, 29, 28, 21 ],
+					[ 0, 0, 20, 38, 37, 23 ],
+					[ 0, 0, 21, 39, 38, 20 ],
+					[ 0, 0, 22, 26, 29, 23 ],
+					[ 0, 0, 22, 36, 35, 25 ],
+					[ 0, 0, 23, 29, 20 ],
+					[ 0, 0, 23, 37, 36, 22 ],
+					[ 0, 0, 24, 27, 26, 25 ],
+					[ 0, 0, 24, 31, 27 ],
+					[ 0, 0, 24, 34, 33, 31 ],
+					[ 0, 0, 25, 26, 22 ],
+					[ 0, 0, 25, 35, 34, 24 ],
+					[ 0, 0, 27, 28, 29, 26 ],
+					[ 0, 0, 27, 31, 30, 28 ],
+					[ 0, 0, 28, 30, 21 ],
+					[ 0, 0, 30, 32, 39, 21 ],
+					[ 0, 0, 31, 33, 32, 30 ]
+				]
+			},
+			"default_uv_set" : "/data/esha/ChineseBedroom/CBRSkirtingDoorIn/UV%20Sets/esha/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "SHCBR_SkirtingDoorIn",
+			"name" : "SHCBR_SkirtingDoorIn",
+			"type" : "node",
+			"label" : "Skirting Door Wall Inside",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 31,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : -11.99999,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : -201,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 31,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : -201,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"presentation" : {
+				"type" : "Prop",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}
