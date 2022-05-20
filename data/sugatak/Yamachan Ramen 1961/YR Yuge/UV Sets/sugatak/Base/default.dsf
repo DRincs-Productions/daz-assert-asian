@@ -1,0 +1,53 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/sugatak/Yamachan%20Ramen%201961/YR%20Yuge/UV%20Sets/sugatak/Base/default.dsf",
+		"type" : "uv_set",
+		"contributor" : {
+			"author" : "sugatak",
+			"email" : "",
+			"website" : "http://www.daz3d.com/sugatak"
+		},
+		"revision" : "0.0",
+		"modified" : "2017-07-26T07:49:59Z"
+	},
+	"uv_set_library" : [
+		{
+			"id" : "default",
+			"name" : "default",
+			"label" : "Default UVs",
+			"vertex_count" : 16,
+			"uvs" : {
+				"count" : 16,
+				"values" : [
+					[ 0.50688, 0.00871 ],
+					[ 0.50688, 0.48827 ],
+					[ 0.98643, 0.48827 ],
+					[ 0.98643, 0.00871 ],
+					[ 0.50688, 0.51173 ],
+					[ 0.50688, 0.99129 ],
+					[ 0.98643, 0.99129 ],
+					[ 0.98643, 0.51173 ],
+					[ 0.01331, 0.51173 ],
+					[ 0.01353, 0.99129 ],
+					[ 0.49308, 0.99107 ],
+					[ 0.49287, 0.51151 ],
+					[ 0.00891, 0.00871 ],
+					[ 0.008690001, 0.48827 ],
+					[ 0.48825, 0.48849 ],
+					[ 0.48847, 0.00893 ]
+				]
+			},
+			"polygon_vertex_indices" : [
+			]
+		}
+	],
+	"scene" : {
+		"uvs" : [
+			{
+				"id" : "default-1",
+				"url" : "#default"
+			}
+		]
+	}
+}

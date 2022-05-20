@@ -1,0 +1,512 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/sugatak/Yamachan%20Ramen%201961/YR%20Hashi%201zen/Hashi%201zen.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "sugatak",
+			"email" : "",
+			"website" : "http://www.daz3d.com/sugatak"
+		},
+		"revision" : "0.0",
+		"modified" : "2017-07-30T07:08:47Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "Hashi 1zen-1",
+			"name" : "Hashi 1zen",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 48,
+				"values" : [
+					[ 0.046, 0.3329, 10.8951 ],
+					[ 0.0471, 0.06560001, 10.8942 ],
+					[ -0.0233, 0.0377, -10.7116 ],
+					[ -0.0249, 0.3576, -10.7107 ],
+					[ 0.0569, 0.3331, 10.9077 ],
+					[ 0.3916, 0.3348, 10.9031 ],
+					[ 0.3923, 0.0674, 10.9022 ],
+					[ 0.05800001, 0.06560001, 10.9069 ],
+					[ -0.0101, 0.3728, -10.7108 ],
+					[ 0.4665, 0.3749, -10.7157 ],
+					[ 0.3914, 0.3473, 10.8902 ],
+					[ 0.0567, 0.3456, 10.895 ],
+					[ 0.0579, 0.0531, 10.8941 ],
+					[ 0.3923, 0.05490001, 10.8893 ],
+					[ 0.4678, 0.0248, -10.7166 ],
+					[ -0.008300001, 0.0227, -10.7117 ],
+					[ -0.008400001, 0.0377, -10.7246 ],
+					[ 0.4675, 0.0398, -10.7293 ],
+					[ 0.4665, 0.3599, -10.7286 ],
+					[ -0.0101, 0.3578, -10.7238 ],
+					[ 0.4022, 0.3348, 10.8901 ],
+					[ 0.4816, 0.3599, -10.7158 ],
+					[ 0.4827, 0.0399, -10.7167 ],
+					[ 0.4030001, 0.0674, 10.8892 ],
+					[ 0.691, 0.3329, 10.8951 ],
+					[ 0.6921, 0.06560001, 10.8942 ],
+					[ 0.6217, 0.0377, -10.7116 ],
+					[ 0.6201, 0.3576, -10.7107 ],
+					[ 0.7019, 0.3331, 10.9077 ],
+					[ 1.0366, 0.3348, 10.9031 ],
+					[ 1.0373, 0.0674, 10.9022 ],
+					[ 0.7031, 0.06560001, 10.9069 ],
+					[ 0.6349, 0.3728, -10.7108 ],
+					[ 1.1115, 0.3749, -10.7157 ],
+					[ 1.0364, 0.3473, 10.8902 ],
+					[ 0.7018, 0.3456, 10.895 ],
+					[ 0.7029, 0.0531, 10.8941 ],
+					[ 1.0373, 0.05490001, 10.8893 ],
+					[ 1.1128, 0.0248, -10.7166 ],
+					[ 0.6367, 0.0227, -10.7117 ],
+					[ 0.6366, 0.0377, -10.7246 ],
+					[ 1.1125, 0.0398, -10.7293 ],
+					[ 1.1115, 0.3599, -10.7286 ],
+					[ 0.6349, 0.3578, -10.7238 ],
+					[ 1.0472, 0.3348, 10.8901 ],
+					[ 1.1267, 0.3599, -10.7158 ],
+					[ 1.1277, 0.0399, -10.7167 ],
+					[ 1.0481, 0.0674, 10.8892 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"Hashi 1zen"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 1,
+				"values" : [
+					"Hashi"
+				]
+			},
+			"polylist" : {
+				"count" : 52,
+				"values" : [
+					[ 0, 0, 3, 2, 1, 0 ],
+					[ 0, 0, 4, 0, 1, 7 ],
+					[ 0, 0, 12, 1, 2, 15 ],
+					[ 0, 0, 16, 2, 3, 19 ],
+					[ 0, 0, 8, 3, 0, 11 ],
+					[ 0, 0, 0, 4, 11 ],
+					[ 0, 0, 1, 12, 7 ],
+					[ 0, 0, 2, 16, 15 ],
+					[ 0, 0, 3, 8, 19 ],
+					[ 0, 0, 7, 6, 5, 4 ],
+					[ 0, 0, 11, 4, 5, 10 ],
+					[ 0, 0, 20, 5, 6, 23 ],
+					[ 0, 0, 13, 6, 7, 12 ],
+					[ 0, 0, 5, 20, 10 ],
+					[ 0, 0, 6, 13, 23 ],
+					[ 0, 0, 11, 10, 9, 8 ],
+					[ 0, 0, 19, 8, 9, 18 ],
+					[ 0, 0, 21, 9, 10, 20 ],
+					[ 0, 0, 9, 21, 18 ],
+					[ 0, 0, 15, 14, 13, 12 ],
+					[ 0, 0, 23, 13, 14, 22 ],
+					[ 0, 0, 17, 14, 15, 16 ],
+					[ 0, 0, 14, 17, 22 ],
+					[ 0, 0, 19, 18, 17, 16 ],
+					[ 0, 0, 22, 17, 18, 21 ],
+					[ 0, 0, 23, 22, 21, 20 ],
+					[ 0, 0, 27, 26, 25, 24 ],
+					[ 0, 0, 28, 24, 25, 31 ],
+					[ 0, 0, 36, 25, 26, 39 ],
+					[ 0, 0, 40, 26, 27, 43 ],
+					[ 0, 0, 32, 27, 24, 35 ],
+					[ 0, 0, 24, 28, 35 ],
+					[ 0, 0, 25, 36, 31 ],
+					[ 0, 0, 26, 40, 39 ],
+					[ 0, 0, 27, 32, 43 ],
+					[ 0, 0, 31, 30, 29, 28 ],
+					[ 0, 0, 35, 28, 29, 34 ],
+					[ 0, 0, 44, 29, 30, 47 ],
+					[ 0, 0, 37, 30, 31, 36 ],
+					[ 0, 0, 29, 44, 34 ],
+					[ 0, 0, 30, 37, 47 ],
+					[ 0, 0, 35, 34, 33, 32 ],
+					[ 0, 0, 43, 32, 33, 42 ],
+					[ 0, 0, 45, 33, 34, 44 ],
+					[ 0, 0, 33, 45, 42 ],
+					[ 0, 0, 39, 38, 37, 36 ],
+					[ 0, 0, 47, 37, 38, 46 ],
+					[ 0, 0, 41, 38, 39, 40 ],
+					[ 0, 0, 38, 41, 46 ],
+					[ 0, 0, 43, 42, 41, 40 ],
+					[ 0, 0, 46, 41, 42, 45 ],
+					[ 0, 0, 47, 46, 45, 44 ]
+				]
+			},
+			"default_uv_set" : "/data/sugatak/Yamachan%20Ramen%201961/YR%20Hashi%201zen/UV%20Sets/sugatak/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "Hashi 1zen",
+			"name" : "Hashi 1zen",
+			"type" : "node",
+			"label" : "Hashi 1zen",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 0.5514001,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 0.0227,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : 0.08919954,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 0.5514001,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 0.3749,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : 0.08919954,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"presentation" : {
+				"type" : "Prop",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,462 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/sugatak/Yamachan%20Ramen%201961/YR%20SokumenMokuita/SokumenMokuita.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "sugatak",
+			"email" : "",
+			"website" : "http://www.daz3d.com/sugatak"
+		},
+		"revision" : "0.0",
+		"modified" : "2017-07-03T08:12:45Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "SokumenMokuita-1",
+			"name" : "SokumenMokuita",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 24,
+				"values" : [
+					[ -64.2265, 44.3131, 52.23009 ],
+					[ -63.8906, 44.3131, -16.3714 ],
+					[ -63.8906, 90.606, -16.3714 ],
+					[ -64.2265, 90.606, 52.23009 ],
+					[ -63.928, 44.3131, 52.5319 ],
+					[ -63.928, 90.606, 52.5319 ],
+					[ -61.9704, 90.606, 52.5434 ],
+					[ -61.9704, 44.3131, 52.5434 ],
+					[ -63.9265, 90.90601, 52.2319 ],
+					[ -63.5927, 90.9245, -16.4015 ],
+					[ -61.7354, 91.0391, -16.5892 ],
+					[ -61.9694, 90.9067, 52.24339 ],
+					[ -63.9265, 44.0131, 52.2319 ],
+					[ -61.9694, 44.0138, 52.24339 ],
+					[ -61.7354, 44.1462, -16.5892 ],
+					[ -63.5927, 44.0316, -16.4015 ],
+					[ -61.6694, 44.3138, 52.2452 ],
+					[ -61.6694, 90.6067, 52.2452 ],
+					[ -61.4375, 90.75761, -16.6193 ],
+					[ -61.4375, 44.4647, -16.6193 ],
+					[ -63.5912, 44.3316, -16.7015 ],
+					[ -61.7344, 44.4468, -16.8892 ],
+					[ -61.7344, 90.7397, -16.8892 ],
+					[ -63.5912, 90.6245, -16.7015 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"SokumenMokuita"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 1,
+				"values" : [
+					"SokumenMokuita"
+				]
+			},
+			"polylist" : {
+				"count" : 26,
+				"values" : [
+					[ 0, 0, 3, 2, 1, 0 ],
+					[ 0, 0, 12, 0, 1, 15 ],
+					[ 0, 0, 20, 1, 2, 23 ],
+					[ 0, 0, 9, 2, 3, 8 ],
+					[ 0, 0, 5, 3, 0, 4 ],
+					[ 0, 0, 0, 12, 4 ],
+					[ 0, 0, 1, 20, 15 ],
+					[ 0, 0, 2, 9, 23 ],
+					[ 0, 0, 3, 5, 8 ],
+					[ 0, 0, 7, 6, 5, 4 ],
+					[ 0, 0, 8, 5, 6, 11 ],
+					[ 0, 0, 17, 6, 7, 16 ],
+					[ 0, 0, 13, 7, 4, 12 ],
+					[ 0, 0, 6, 17, 11 ],
+					[ 0, 0, 7, 13, 16 ],
+					[ 0, 0, 11, 10, 9, 8 ],
+					[ 0, 0, 23, 9, 10, 22 ],
+					[ 0, 0, 18, 10, 11, 17 ],
+					[ 0, 0, 10, 18, 22 ],
+					[ 0, 0, 15, 14, 13, 12 ],
+					[ 0, 0, 16, 13, 14, 19 ],
+					[ 0, 0, 21, 14, 15, 20 ],
+					[ 0, 0, 14, 21, 19 ],
+					[ 0, 0, 19, 18, 17, 16 ],
+					[ 0, 0, 22, 18, 19, 21 ],
+					[ 0, 0, 23, 22, 21, 20 ]
+				]
+			},
+			"default_uv_set" : "/data/sugatak/Yamachan%20Ramen%201961/YR%20SokumenMokuita/UV%20Sets/sugatak/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "SokumenMokuita",
+			"name" : "SokumenMokuita",
+			"type" : "node",
+			"label" : "SokumenMokuita",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : -62.832,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 44.0131,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : 17.8271,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : -62.832,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 91.0391,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : 17.8271,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"presentation" : {
+				"type" : "Prop",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}

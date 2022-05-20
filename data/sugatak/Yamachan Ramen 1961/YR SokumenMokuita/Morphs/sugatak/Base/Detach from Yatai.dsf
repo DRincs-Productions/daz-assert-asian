@@ -1,0 +1,81 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/sugatak/Yamachan%20Ramen%201961/YR%20SokumenMokuita/Morphs/sugatak/Base/Detach%20from%20Yatai.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "sugatak",
+			"email" : "",
+			"website" : "http://www.daz3d.com/sugatak"
+		},
+		"revision" : "1.0",
+		"modified" : "2017-08-02T08:33:22Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "Detach from Yatai",
+			"name" : "Detach from Yatai",
+			"parent" : "/data/sugatak/Yamachan%20Ramen%201961/YR%20SokumenMokuita/SokumenMokuita.dsf#SokumenMokuita-1",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Value",
+				"label" : "Detach from Yatai",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.01
+			},
+			"group" : "/Morphs/Fun",
+			"morph" : {
+				"vertex_count" : 24,
+				"deltas" : {
+					"count" : 24,
+					"values" : [
+						[ 0, -25.95601, -43.5303, -143.1794 ],
+						[ 1, -25.96061, -43.5857, -143.1794 ],
+						[ 2, -18.33639, -44.2178, -143.1794 ],
+						[ 3, -18.33179, -44.1625, -143.1794 ],
+						[ 4, -25.9601, -43.5795, -143.1794 ],
+						[ 5, -18.33589, -44.21161, -143.1794 ],
+						[ 6, -18.3626, -44.5341, -143.1794 ],
+						[ 7, -25.9868, -43.9019, -143.1794 ],
+						[ 8, -18.2865, -44.21601, -143.1794 ],
+						[ 9, -18.2881, -44.27119, -143.1794 ],
+						[ 10, -18.2946, -44.5787, -143.1793 ],
+						[ 11, -18.3131, -44.5383, -143.1794 ],
+						[ 12, -26.0095, -43.5757, -143.1794 ],
+						[ 13, -26.0361, -43.898, -143.1794 ],
+						[ 14, -26.01751, -43.9383, -143.1793 ],
+						[ 15, -26.01099, -43.6309, -143.1794 ],
+						[ 16, -25.9908, -43.9515, -143.1794 ],
+						[ 17, -18.3667, -44.5836, -143.1794 ],
+						[ 18, -18.345, -44.62391, -143.1794 ],
+						[ 19, -25.96911, -43.9917, -143.1794 ],
+						[ 20, -25.9617, -43.6352, -143.1794 ],
+						[ 21, -25.96801, -43.9426, -143.1793 ],
+						[ 22, -18.3439, -44.5747, -143.1793 ],
+						[ 23, -18.33749, -44.2674, -143.1794 ]
+					]
+				}
+			}
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "Detach from Yatai-1",
+				"url" : "#Detach%20from%20Yatai"
+			}
+		]
+	}
+}
