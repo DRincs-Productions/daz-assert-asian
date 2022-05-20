@@ -1,0 +1,535 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Fugazi1968/FG%20Japanese%20Steak%20House/FG%20Wood%20Door1/FG%20Wood%20Door1.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "Fugazi1968",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-01-06T07:55:30Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "FG Wood Door1-1",
+			"name" : "FG Wood Door1",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 56,
+				"values" : [
+					[ 95.87051, 0.254, 841.433 ],
+					[ 95.87051, 197.866, 841.433 ],
+					[ 95.87051, 197.866, 747.6721 ],
+					[ 95.87051, 0.254, 747.6721 ],
+					[ 100.95, 197.866, 747.6721 ],
+					[ 100.95, 197.866, 841.433 ],
+					[ 100.95, 0.254, 841.433 ],
+					[ 100.95, 0.254, 747.6721 ],
+					[ 96.1245, 197.866, 841.6869 ],
+					[ 96.1245, 0.254, 841.6869 ],
+					[ 100.696, 0.254, 841.6869 ],
+					[ 100.696, 197.866, 841.6869 ],
+					[ 96.1245, 198.12, 747.6721 ],
+					[ 96.1245, 198.12, 841.433 ],
+					[ 100.696, 198.12, 841.433 ],
+					[ 100.696, 198.12, 747.6721 ],
+					[ 96.1245, 0.254, 747.4181 ],
+					[ 96.1245, 197.866, 747.4181 ],
+					[ 100.696, 197.866, 747.4181 ],
+					[ 100.696, 0.254, 747.4181 ],
+					[ 96.1245, 0, 841.433 ],
+					[ 96.1245, 0, 747.6721 ],
+					[ 100.696, 0, 747.6721 ],
+					[ 100.696, 0, 841.433 ],
+					[ 95.93401, 0.0635, 841.433 ],
+					[ 95.9657, 0.09525, 841.591 ],
+					[ 95.93401, 0.254, 841.6229 ],
+					[ 95.93401, 197.866, 841.6229 ],
+					[ 95.9657, 198.025, 841.591 ],
+					[ 95.93401, 198.056, 841.433 ],
+					[ 95.93401, 198.056, 747.6721 ],
+					[ 95.9657, 198.025, 747.5131 ],
+					[ 95.93401, 197.866, 747.4811 ],
+					[ 95.93401, 0.254, 747.4811 ],
+					[ 95.9657, 0.09525, 747.5131 ],
+					[ 95.93401, 0.0635, 747.6721 ],
+					[ 100.887, 197.866, 747.4811 ],
+					[ 100.855, 198.025, 747.5131 ],
+					[ 100.887, 198.056, 747.6721 ],
+					[ 100.887, 198.056, 841.433 ],
+					[ 100.855, 198.025, 841.591 ],
+					[ 100.887, 197.866, 841.6229 ],
+					[ 100.887, 0.254, 841.6229 ],
+					[ 100.855, 0.09525, 841.591 ],
+					[ 100.887, 0.0635, 841.433 ],
+					[ 100.887, 0.0635, 747.6721 ],
+					[ 100.855, 0.09525, 747.5131 ],
+					[ 100.887, 0.254, 747.4811 ],
+					[ 96.1245, 198.056, 841.6229 ],
+					[ 96.1245, 0.0635, 841.6229 ],
+					[ 100.696, 0.0635, 841.6229 ],
+					[ 100.696, 198.056, 841.6229 ],
+					[ 96.1245, 198.056, 747.4811 ],
+					[ 100.696, 198.056, 747.4811 ],
+					[ 96.1245, 0.0635, 747.4811 ],
+					[ 100.696, 0.0635, 747.4811 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"FG_Wood_Door1"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 1,
+				"values" : [
+					"DoorWood"
+				]
+			},
+			"polylist" : {
+				"count" : 54,
+				"values" : [
+					[ 0, 0, 0, 1, 2, 3 ],
+					[ 0, 0, 4, 5, 6, 7 ],
+					[ 0, 0, 8, 9, 10, 11 ],
+					[ 0, 0, 12, 13, 14, 15 ],
+					[ 0, 0, 16, 17, 18, 19 ],
+					[ 0, 0, 20, 21, 22, 23 ],
+					[ 0, 0, 0, 24, 25, 26 ],
+					[ 0, 0, 1, 27, 28, 29 ],
+					[ 0, 0, 2, 30, 31, 32 ],
+					[ 0, 0, 3, 33, 34, 35 ],
+					[ 0, 0, 4, 36, 37, 38 ],
+					[ 0, 0, 5, 39, 40, 41 ],
+					[ 0, 0, 6, 42, 43, 44 ],
+					[ 0, 0, 7, 45, 46, 47 ],
+					[ 0, 0, 8, 48, 28, 27 ],
+					[ 0, 0, 9, 26, 25, 49 ],
+					[ 0, 0, 10, 50, 43, 42 ],
+					[ 0, 0, 11, 41, 40, 51 ],
+					[ 0, 0, 12, 52, 31, 30 ],
+					[ 0, 0, 13, 29, 28, 48 ],
+					[ 0, 0, 14, 51, 40, 39 ],
+					[ 0, 0, 15, 38, 37, 53 ],
+					[ 0, 0, 16, 54, 34, 33 ],
+					[ 0, 0, 17, 32, 31, 52 ],
+					[ 0, 0, 18, 53, 37, 36 ],
+					[ 0, 0, 19, 47, 46, 55 ],
+					[ 0, 0, 20, 49, 25, 24 ],
+					[ 0, 0, 21, 35, 34, 54 ],
+					[ 0, 0, 22, 55, 46, 45 ],
+					[ 0, 0, 23, 44, 43, 50 ],
+					[ 0, 0, 1, 0, 26, 27 ],
+					[ 0, 0, 2, 1, 29, 30 ],
+					[ 0, 0, 3, 2, 32, 33 ],
+					[ 0, 0, 0, 3, 35, 24 ],
+					[ 0, 0, 5, 4, 38, 39 ],
+					[ 0, 0, 6, 5, 41, 42 ],
+					[ 0, 0, 7, 6, 44, 45 ],
+					[ 0, 0, 4, 7, 47, 36 ],
+					[ 0, 0, 9, 8, 27, 26 ],
+					[ 0, 0, 10, 9, 49, 50 ],
+					[ 0, 0, 11, 10, 42, 41 ],
+					[ 0, 0, 8, 11, 51, 48 ],
+					[ 0, 0, 13, 12, 30, 29 ],
+					[ 0, 0, 14, 13, 48, 51 ],
+					[ 0, 0, 15, 14, 39, 38 ],
+					[ 0, 0, 12, 15, 53, 52 ],
+					[ 0, 0, 17, 16, 33, 32 ],
+					[ 0, 0, 18, 17, 52, 53 ],
+					[ 0, 0, 19, 18, 36, 47 ],
+					[ 0, 0, 16, 19, 55, 54 ],
+					[ 0, 0, 21, 20, 24, 35 ],
+					[ 0, 0, 22, 21, 54, 55 ],
+					[ 0, 0, 23, 22, 45, 44 ],
+					[ 0, 0, 20, 23, 50, 49 ]
+				]
+			},
+			"default_uv_set" : "/data/Fugazi1968/FG%20Japanese%20Steak%20House/FG%20Wood%20Door1/UV%20Sets/Fugazi1968/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDNormalSmoothing",
+								"type" : "enum",
+								"label" : "SubDivision Normals",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Smoothed", "Preserve Cage" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "FG Wood Door1",
+			"name" : "FG Wood Door1",
+			"type" : "node",
+			"label" : "FG Wood Door1",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 98.41025,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : 794.5525,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 98.41025,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 198.12,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : 794.5525,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible in Simulation",
+								"type" : "bool",
+								"label" : "Visible in Simulation",
+								"value" : true
+							},
+							"group" : "/Display/Simulation"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}

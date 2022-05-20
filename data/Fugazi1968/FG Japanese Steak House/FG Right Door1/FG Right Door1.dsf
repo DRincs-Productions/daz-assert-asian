@@ -1,0 +1,623 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Fugazi1968/FG%20Japanese%20Steak%20House/FG%20Right%20Door1/FG%20Right%20Door1.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "Fugazi1968",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-01-06T07:55:37Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "FG Right Door1-1",
+			"name" : "FG Right Door1",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 100,
+				"values" : [
+					[ 589.2161, 0.254, 323.687 ],
+					[ 589.2161, 0.254, 426.585 ],
+					[ 589.2161, 6.096, 420.743 ],
+					[ 589.2161, 6.096, 329.528 ],
+					[ 589.2161, 0.613156, 426.945 ],
+					[ 589.2161, 210.207, 426.945 ],
+					[ 589.2161, 204.365, 421.103 ],
+					[ 589.2161, 6.45515, 421.103 ],
+					[ 589.2161, 210.566, 426.585 ],
+					[ 589.2161, 210.566, 323.687 ],
+					[ 589.2161, 204.724, 329.528 ],
+					[ 589.2161, 204.724, 420.743 ],
+					[ 589.2161, 210.207, 323.327 ],
+					[ 589.2161, 0.613156, 323.327 ],
+					[ 589.2161, 6.45515, 329.169 ],
+					[ 589.2161, 204.365, 329.169 ],
+					[ 593.026, 6.35, 420.595 ],
+					[ 593.026, 0, 426.945 ],
+					[ 593.026, 0, 323.327 ],
+					[ 593.026, 6.35, 329.677 ],
+					[ 593.026, 204.216, 420.849 ],
+					[ 593.026, 210.566, 427.199 ],
+					[ 593.026, 0.254, 427.199 ],
+					[ 593.026, 6.604, 420.849 ],
+					[ 593.026, 204.47, 329.677 ],
+					[ 593.026, 210.82, 323.327 ],
+					[ 593.026, 210.82, 426.945 ],
+					[ 593.026, 204.47, 420.595 ],
+					[ 593.026, 6.604, 329.423 ],
+					[ 593.026, 0.254, 323.073 ],
+					[ 593.026, 210.566, 323.073 ],
+					[ 593.026, 204.216, 329.423 ],
+					[ 589.47, 0, 426.945 ],
+					[ 589.47, 0, 323.327 ],
+					[ 589.47, 6.35, 329.677 ],
+					[ 589.47, 6.35, 420.595 ],
+					[ 589.47, 210.566, 427.199 ],
+					[ 589.47, 0.254, 427.199 ],
+					[ 589.47, 6.604, 420.849 ],
+					[ 589.47, 204.216, 420.849 ],
+					[ 589.47, 210.82, 323.327 ],
+					[ 589.47, 210.82, 426.945 ],
+					[ 589.47, 204.47, 420.595 ],
+					[ 589.47, 204.47, 329.677 ],
+					[ 589.47, 0.254, 323.073 ],
+					[ 589.47, 210.566, 323.073 ],
+					[ 589.47, 204.216, 329.423 ],
+					[ 589.47, 6.604, 329.423 ],
+					[ 589.2161, 0.306578, 323.38 ],
+					[ 589.273, 0.12446, 323.198 ],
+					[ 589.28, 0.0635, 323.417 ],
+					[ 589.28, 0.0635, 426.855 ],
+					[ 589.273, 0.12446, 427.074 ],
+					[ 589.2161, 0.306578, 426.8919 ],
+					[ 589.2161, 6.223, 420.976 ],
+					[ 589.267, 6.360661, 420.838 ],
+					[ 589.28, 6.2865, 420.632 ],
+					[ 589.28, 6.2865, 329.64 ],
+					[ 589.268, 6.360661, 329.434 ],
+					[ 589.2161, 6.223, 329.296 ],
+					[ 589.28, 0.343916, 427.135 ],
+					[ 589.28, 210.476, 427.135 ],
+					[ 589.273, 210.695, 427.074 ],
+					[ 589.2161, 210.513, 426.8919 ],
+					[ 589.2161, 204.597, 420.976 ],
+					[ 589.267, 204.459, 420.838 ],
+					[ 589.28, 204.253, 420.912 ],
+					[ 589.28, 6.56691, 420.912 ],
+					[ 589.28, 210.756, 426.855 ],
+					[ 589.28, 210.756, 323.417 ],
+					[ 589.273, 210.695, 323.198 ],
+					[ 589.2161, 210.513, 323.38 ],
+					[ 589.2161, 204.597, 329.296 ],
+					[ 589.268, 204.459, 329.434 ],
+					[ 589.28, 204.533, 329.64 ],
+					[ 589.28, 204.533, 420.632 ],
+					[ 589.28, 210.476, 323.137 ],
+					[ 589.28, 0.343916, 323.137 ],
+					[ 589.28, 6.56691, 329.36 ],
+					[ 589.28, 204.253, 329.36 ],
+					[ 589.47, 0.0635, 427.135 ],
+					[ 589.47, 0.0635, 323.137 ],
+					[ 589.47, 6.413501, 329.487 ],
+					[ 589.47, 6.413501, 420.785 ],
+					[ 589.47, 210.756, 427.135 ],
+					[ 589.47, 204.406, 420.785 ],
+					[ 589.47, 210.756, 323.137 ],
+					[ 589.47, 204.406, 329.487 ],
+					[ 593.026, 6.413501, 420.785 ],
+					[ 593.026, 0.0635, 427.135 ],
+					[ 593.026, 0.0635, 323.137 ],
+					[ 593.026, 6.413501, 329.487 ],
+					[ 593.026, 204.406, 420.785 ],
+					[ 593.026, 210.756, 427.135 ],
+					[ 593.026, 204.406, 329.487 ],
+					[ 593.026, 210.756, 323.137 ],
+					[ 591.6, 3.175, 326.248 ],
+					[ 591.6, 3.175, 424.024 ],
+					[ 591.59, 207.645, 424.024 ],
+					[ 591.6, 207.645, 326.248 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"FG_Right_Door1"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 2,
+				"values" : [
+					"Glass",
+					"Metal"
+				]
+			},
+			"polylist" : {
+				"count" : 97,
+				"values" : [
+					[ 0, 0, 96, 97, 98, 99 ],
+					[ 0, 1, 0, 1, 2, 3 ],
+					[ 0, 1, 4, 5, 6, 7 ],
+					[ 0, 1, 8, 9, 10, 11 ],
+					[ 0, 1, 12, 13, 14, 15 ],
+					[ 0, 1, 16, 17, 18, 19 ],
+					[ 0, 1, 20, 21, 22, 23 ],
+					[ 0, 1, 24, 25, 26, 27 ],
+					[ 0, 1, 28, 29, 30, 31 ],
+					[ 0, 1, 32, 33, 18, 17 ],
+					[ 0, 1, 34, 35, 16, 19 ],
+					[ 0, 1, 36, 37, 22, 21 ],
+					[ 0, 1, 38, 39, 20, 23 ],
+					[ 0, 1, 40, 41, 26, 25 ],
+					[ 0, 1, 42, 43, 24, 27 ],
+					[ 0, 1, 44, 45, 30, 29 ],
+					[ 0, 1, 46, 47, 28, 31 ],
+					[ 0, 1, 0, 48, 49, 50 ],
+					[ 0, 1, 1, 51, 52, 53 ],
+					[ 0, 1, 2, 54, 55, 56 ],
+					[ 0, 1, 3, 57, 58, 59 ],
+					[ 0, 1, 4, 53, 52, 60 ],
+					[ 0, 1, 5, 61, 62, 63 ],
+					[ 0, 1, 6, 64, 65, 66 ],
+					[ 0, 1, 7, 67, 55, 54 ],
+					[ 0, 1, 8, 63, 62, 68 ],
+					[ 0, 1, 9, 69, 70, 71 ],
+					[ 0, 1, 10, 72, 73, 74 ],
+					[ 0, 1, 11, 75, 65, 64 ],
+					[ 0, 1, 12, 71, 70, 76 ],
+					[ 0, 1, 13, 77, 49, 48 ],
+					[ 0, 1, 14, 59, 58, 78 ],
+					[ 0, 1, 15, 79, 73, 72 ],
+					[ 0, 1, 32, 80, 52, 51 ],
+					[ 0, 1, 33, 50, 49, 81 ],
+					[ 0, 1, 34, 82, 58, 57 ],
+					[ 0, 1, 35, 56, 55, 83 ],
+					[ 0, 1, 36, 84, 62, 61 ],
+					[ 0, 1, 37, 60, 52, 80 ],
+					[ 0, 1, 38, 83, 55, 67 ],
+					[ 0, 1, 39, 66, 65, 85 ],
+					[ 0, 1, 40, 86, 70, 69 ],
+					[ 0, 1, 41, 68, 62, 84 ],
+					[ 0, 1, 42, 85, 65, 75 ],
+					[ 0, 1, 43, 74, 73, 87 ],
+					[ 0, 1, 44, 81, 49, 77 ],
+					[ 0, 1, 45, 76, 70, 86 ],
+					[ 0, 1, 46, 87, 73, 79 ],
+					[ 0, 1, 47, 78, 58, 82 ],
+					[ 0, 1, 1, 0, 50, 51 ],
+					[ 0, 1, 2, 1, 53, 54 ],
+					[ 0, 1, 3, 2, 56, 57 ],
+					[ 0, 1, 0, 3, 59, 48 ],
+					[ 0, 1, 5, 4, 60, 61 ],
+					[ 0, 1, 6, 5, 63, 64 ],
+					[ 0, 1, 7, 6, 66, 67 ],
+					[ 0, 1, 4, 7, 54, 53 ],
+					[ 0, 1, 9, 8, 68, 69 ],
+					[ 0, 1, 10, 9, 71, 72 ],
+					[ 0, 1, 11, 10, 74, 75 ],
+					[ 0, 1, 8, 11, 64, 63 ],
+					[ 0, 1, 13, 12, 76, 77 ],
+					[ 0, 1, 14, 13, 48, 59 ],
+					[ 0, 1, 15, 14, 78, 79 ],
+					[ 0, 1, 12, 15, 72, 71 ],
+					[ 0, 1, 17, 16, 88, 89 ],
+					[ 0, 1, 19, 18, 90, 91 ],
+					[ 0, 1, 21, 20, 92, 93 ],
+					[ 0, 1, 23, 22, 89, 88 ],
+					[ 0, 1, 25, 24, 94, 95 ],
+					[ 0, 1, 27, 26, 93, 92 ],
+					[ 0, 1, 29, 28, 91, 90 ],
+					[ 0, 1, 31, 30, 95, 94 ],
+					[ 0, 1, 33, 32, 51, 50 ],
+					[ 0, 1, 18, 33, 81, 90 ],
+					[ 0, 1, 32, 17, 89, 80 ],
+					[ 0, 1, 35, 34, 57, 56 ],
+					[ 0, 1, 16, 35, 83, 88 ],
+					[ 0, 1, 34, 19, 91, 82 ],
+					[ 0, 1, 37, 36, 61, 60 ],
+					[ 0, 1, 22, 37, 80, 89 ],
+					[ 0, 1, 36, 21, 93, 84 ],
+					[ 0, 1, 39, 38, 67, 66 ],
+					[ 0, 1, 20, 39, 85, 92 ],
+					[ 0, 1, 38, 23, 88, 83 ],
+					[ 0, 1, 41, 40, 69, 68 ],
+					[ 0, 1, 26, 41, 84, 93 ],
+					[ 0, 1, 40, 25, 95, 86 ],
+					[ 0, 1, 43, 42, 75, 74 ],
+					[ 0, 1, 24, 43, 87, 94 ],
+					[ 0, 1, 42, 27, 92, 85 ],
+					[ 0, 1, 45, 44, 77, 76 ],
+					[ 0, 1, 30, 45, 86, 95 ],
+					[ 0, 1, 44, 29, 90, 81 ],
+					[ 0, 1, 47, 46, 79, 78 ],
+					[ 0, 1, 28, 47, 82, 91 ],
+					[ 0, 1, 46, 31, 94, 87 ]
+				]
+			},
+			"default_uv_set" : "/data/Fugazi1968/FG%20Japanese%20Steak%20House/FG%20Right%20Door1/UV%20Sets/Fugazi1968/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDNormalSmoothing",
+								"type" : "enum",
+								"label" : "SubDivision Normals",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Smoothed", "Preserve Cage" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "FG Right Door1",
+			"name" : "FG Right Door1",
+			"type" : "node",
+			"label" : "FG Right Door1",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 591.121,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : 375.136,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 591.121,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 210.82,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : 375.136,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible in Simulation",
+								"type" : "bool",
+								"label" : "Visible in Simulation",
+								"value" : true
+							},
+							"group" : "/Display/Simulation"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}
