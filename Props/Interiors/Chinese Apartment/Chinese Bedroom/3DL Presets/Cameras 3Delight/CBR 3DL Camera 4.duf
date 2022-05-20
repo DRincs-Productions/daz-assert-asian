@@ -1,0 +1,1226 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Props/Scene%20Props/Chinese%20Apartment/Chinese%20Bedroom/3DL%20Presets/Cameras%203Delight/CBR%203DL%20Camera%204.duf",
+		"type" : "preset_camera",
+		"contributor" : {
+			"author" : "esha",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-05-23T04:56:29Z"
+	},
+	"node_library" : [
+		{
+			"id" : "Camera 5",
+			"name" : "Camera 5",
+			"type" : "camera",
+			"label" : "3DL Cam Bedroom 4",
+			"rotation_order" : "XYZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : -1,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"current_value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"current_value" : 180.2097,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"current_value" : 60.87241,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"current_value" : -179.9965,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"current_value" : 474.2191,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"current_value" : 105.7408,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"current_value" : -409.6889,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"current_value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"current_value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"current_value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"current_value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"presentation" : {
+				"type" : "Camera",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"extra" : [
+				{
+					"type" : "studio/node/camera/daz_brick",
+					"brick_settings" : {
+						"BrickSetup" : {
+							"type" : "settings",
+							"value" : {
+								"Bricks" : {
+									"type" : "settings",
+									"value" : {
+										"Brick_1" : {
+											"type" : "settings",
+											"value" : {
+												"DAZStudioClassName" : "DzIndirectLightBrick",
+												"Attributes" : {
+													"type" : "settings",
+													"value" : {
+														"BrickSettings" : {
+															"type" : "settings",
+															"value" : {
+																"BrickSet" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Name" : "shader_Indirect_Light__Camera_",
+																		"LastInvalidate" : "1461646660"
+																	}
+																},
+																"BrickTitle" : "Indirect Light [Camera] (1)",
+																"HideParams" : false,
+																"PosX" : -154,
+																"PosY" : 85,
+																"BrickIsRightToLeft" : false,
+																"Width" : [ "i", 200 ],
+																"Height" : [ "i", 187 ],
+																"BrickParams" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Param_0" : {
+																			"type" : "settings",
+																			"value" : {
+																				"ConnectionColor" : {
+																					"type" : "settings",
+																					"value" : {
+																						"Red" : 12,
+																						"Green" : 12,
+																						"Blue" : 12
+																					}
+																				}
+																			}
+																		},
+																		"Param_1" : {
+																			"type" : "settings",
+																			"value" : {
+																				"ConnectionColor" : {
+																					"type" : "settings",
+																					"value" : {
+																						"Red" : 12,
+																						"Green" : 12,
+																						"Blue" : 12
+																					}
+																				}
+																			}
+																		}
+																	}
+																}
+															}
+														},
+														"BrickVersion" : 1,
+														"BrickProperties" : {
+															"type" : "settings",
+															"value" : {
+															}
+														}
+													}
+												},
+												"Parameters" : {
+													"type" : "settings",
+													"value" : {
+														"intensity" : {
+															"type" : "settings",
+															"value" : {
+																"Tokens" : "elr_intensity_b1_t0",
+																"Label" : "Intensity",
+																"Prop_0" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Label" : "Intensity",
+																		"Hidden" : false,
+																		"Path" : "/Indirect Light [Camera] (1)",
+																		"UserProperty" : false,
+																		"CanAnimate" : true,
+																		"Locked" : false,
+																		"Manipulator" : true,
+																		"Favorite" : false,
+																		"GlobalFavorite" : false,
+																		"Selected" : false,
+																		"AutoFollow" : false,
+																		"AutoFollowTarget" : "",
+																		"XYZInterest" : "None",
+																		"Clamped" : false,
+																		"Mapable" : false,
+																		"NeedMap" : false,
+																		"DefaultImageGamma" : 1,
+																		"Min" : -1000,
+																		"Max" : 1000,
+																		"Sensitivity" : 0.01,
+																		"AsPercent" : false,
+																		"Value" : 1,
+																		"DefaultValue" : 1,
+																		"Name" : "intensity"
+																	}
+																}
+															}
+														},
+														"tint" : {
+															"type" : "settings",
+															"value" : {
+																"Tokens" : "elr_tint_b1_t0",
+																"Label" : "Indirect Tint",
+																"Prop_0" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Label" : "Indirect Tint",
+																		"Hidden" : false,
+																		"Path" : "/Indirect Light [Camera] (1)",
+																		"UserProperty" : false,
+																		"CanAnimate" : true,
+																		"Locked" : false,
+																		"Manipulator" : true,
+																		"Favorite" : false,
+																		"GlobalFavorite" : false,
+																		"Selected" : false,
+																		"AutoFollow" : false,
+																		"AutoFollowTarget" : "",
+																		"XYZInterest" : "None",
+																		"Clamped" : false,
+																		"Mapable" : false,
+																		"NeedMap" : false,
+																		"DefaultImageGamma" : 0,
+																		"Min" : [ "i", -2147483648 ],
+																		"Max" : [ "i", 2147483647 ],
+																		"Sensitivity" : [ "i", 1 ],
+																		"Value" : {
+																			"type" : "settings",
+																			"value" : {
+																				"Red" : [ "i", 255 ],
+																				"Green" : [ "i", 255 ],
+																				"Blue" : [ "i", 255 ]
+																			}
+																		},
+																		"DefaultValue" : {
+																			"type" : "settings",
+																			"value" : {
+																				"Red" : [ "i", 255 ],
+																				"Green" : [ "i", 255 ],
+																				"Blue" : [ "i", 255 ]
+																			}
+																		},
+																		"Name" : "tint"
+																	}
+																}
+															}
+														},
+														"samples" : {
+															"type" : "settings",
+															"value" : {
+																"Tokens" : "elr_samples_b1_t0",
+																"Label" : "Samples",
+																"Prop_0" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Label" : "Samples",
+																		"Hidden" : false,
+																		"Path" : "/Indirect Light [Camera] (1)",
+																		"UserProperty" : false,
+																		"CanAnimate" : true,
+																		"Locked" : false,
+																		"Manipulator" : true,
+																		"Favorite" : false,
+																		"GlobalFavorite" : false,
+																		"Selected" : false,
+																		"AutoFollow" : false,
+																		"AutoFollowTarget" : "",
+																		"XYZInterest" : "None",
+																		"Clamped" : true,
+																		"Mapable" : false,
+																		"NeedMap" : false,
+																		"DefaultImageGamma" : 0,
+																		"Min" : [ "i", 1 ],
+																		"Max" : [ "i", 2048 ],
+																		"Sensitivity" : [ "i", 1 ],
+																		"Value" : [ "i", 64 ],
+																		"DefaultValue" : [ "i", 64 ],
+																		"Name" : "samples"
+																	}
+																}
+															}
+														},
+														"finalgather" : {
+															"type" : "settings",
+															"value" : {
+																"Tokens" : "elr_finalgather_b1_t0",
+																"Label" : "Do Final Gather",
+																"Prop_0" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Label" : "Do Final Gather",
+																		"Hidden" : false,
+																		"Path" : "/Indirect Light [Camera] (1)",
+																		"UserProperty" : false,
+																		"CanAnimate" : true,
+																		"Locked" : false,
+																		"Manipulator" : true,
+																		"Favorite" : false,
+																		"GlobalFavorite" : false,
+																		"Selected" : false,
+																		"AutoFollow" : false,
+																		"AutoFollowTarget" : "",
+																		"XYZInterest" : "None",
+																		"Clamped" : false,
+																		"Mapable" : false,
+																		"NeedMap" : false,
+																		"DefaultImageGamma" : 0,
+																		"Min" : [ "i", -2147483648 ],
+																		"Max" : [ "i", 2147483647 ],
+																		"Sensitivity" : [ "i", 1 ],
+																		"Value" : true,
+																		"DefaultValue" : true,
+																		"Name" : "finalgather"
+																	}
+																}
+															}
+														},
+														"maxdist" : {
+															"type" : "settings",
+															"value" : {
+																"Tokens" : "elr_maxdist_b1_t0",
+																"Label" : "Max Distance",
+																"Prop_0" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Label" : "Max Distance",
+																		"Hidden" : false,
+																		"Path" : "/Indirect Light [Camera] (1)",
+																		"UserProperty" : false,
+																		"CanAnimate" : true,
+																		"Locked" : false,
+																		"Manipulator" : true,
+																		"Favorite" : false,
+																		"GlobalFavorite" : false,
+																		"Selected" : false,
+																		"AutoFollow" : false,
+																		"AutoFollowTarget" : "",
+																		"XYZInterest" : "None",
+																		"Clamped" : false,
+																		"Mapable" : false,
+																		"NeedMap" : false,
+																		"DefaultImageGamma" : 1,
+																		"Min" : -1000,
+																		"Max" : 1000,
+																		"Sensitivity" : 0.01,
+																		"AsPercent" : false,
+																		"Value" : 1000000,
+																		"DefaultValue" : 1000000,
+																		"Name" : "maxdist"
+																	}
+																}
+															}
+														},
+														"mindepth" : {
+															"type" : "settings",
+															"value" : {
+																"Tokens" : "elr_mindepth_b1_t0",
+																"Label" : "Min Depth",
+																"Prop_0" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Label" : "Min Depth",
+																		"Hidden" : false,
+																		"Path" : "/Indirect Light [Camera] (1)",
+																		"UserProperty" : false,
+																		"CanAnimate" : true,
+																		"Locked" : false,
+																		"Manipulator" : true,
+																		"Favorite" : false,
+																		"GlobalFavorite" : false,
+																		"Selected" : false,
+																		"AutoFollow" : false,
+																		"AutoFollowTarget" : "",
+																		"XYZInterest" : "None",
+																		"Clamped" : true,
+																		"Mapable" : false,
+																		"NeedMap" : false,
+																		"DefaultImageGamma" : 0,
+																		"Min" : [ "i", 0 ],
+																		"Max" : [ "i", 32 ],
+																		"Sensitivity" : [ "i", 1 ],
+																		"Value" : [ "i", 1 ],
+																		"DefaultValue" : [ "i", 1 ],
+																		"Name" : "mindepth"
+																	}
+																}
+															}
+														},
+														"sampleMode" : {
+															"type" : "settings",
+															"value" : {
+																"Tokens" : "elr_sampleMode_b1_t0",
+																"Label" : "Sample Mode",
+																"Prop_0" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Label" : "Sample Mode",
+																		"Hidden" : false,
+																		"Path" : "/Indirect Light [Camera] (1)",
+																		"UserProperty" : false,
+																		"CanAnimate" : true,
+																		"Locked" : false,
+																		"Manipulator" : true,
+																		"Favorite" : false,
+																		"GlobalFavorite" : false,
+																		"Selected" : false,
+																		"AutoFollow" : false,
+																		"AutoFollowTarget" : "",
+																		"XYZInterest" : "None",
+																		"Clamped" : true,
+																		"Mapable" : false,
+																		"NeedMap" : false,
+																		"DefaultImageGamma" : 0,
+																		"Min" : [ "i", 0 ],
+																		"Max" : [ "i", 1 ],
+																		"Sensitivity" : [ "i", 1 ],
+																		"Value" : [ "i", 0 ],
+																		"DefaultValue" : [ "i", 0 ],
+																		"Name" : "sampleMode"
+																	}
+																}
+															}
+														},
+														"Illumination" : {
+															"type" : "settings",
+															"value" : {
+																"Tokens" : "elr_Illumination_b1_t0",
+																"Label" : "Illumination",
+																"Prop_0" : {
+																	"type" : "settings",
+																	"value" : {
+																		"Label" : "Illumination",
+																		"Hidden" : false,
+																		"Path" : "/Indirect Light [Camera] (1)",
+																		"UserProperty" : false,
+																		"CanAnimate" : true,
+																		"Locked" : false,
+																		"Manipulator" : true,
+																		"Favorite" : false,
+																		"GlobalFavorite" : false,
+																		"Selected" : false,
+																		"AutoFollow" : false,
+																		"AutoFollowTarget" : "",
+																		"XYZInterest" : "None",
+																		"Clamped" : true,
+																		"Mapable" : false,
+																		"NeedMap" : false,
+																		"DefaultImageGamma" : 0,
+																		"Min" : [ "i", 0 ],
+																		"Max" : [ "i", 3 ],
+																		"Sensitivity" : [ "i", 1 ],
+																		"Value" : [ "i", 3 ],
+																		"DefaultValue" : [ "i", 3 ],
+																		"Name" : "Illumination"
+																	}
+																}
+															}
+														},
+														"rootSettings" : {
+															"type" : "settings",
+															"value" : {
+																"Label" : "Root Settings"
+															}
+														}
+													}
+												}
+											}
+										}
+									}
+								},
+								"Connections" : {
+									"type" : "settings",
+									"value" : {
+									}
+								},
+								"BrickUserName" : "Camera",
+								"Identifier" : "{1b853406-e5a8-4223-880b-1fb7a3d4f3a4}"
+							}
+						}
+					}
+				},
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"current_value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"visible" : false,
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"current_value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true,
+								"current_value" : false
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Perspective",
+								"type" : "bool",
+								"label" : "Perspective",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Frame Width",
+								"type" : "float",
+								"label" : "Frame Width (mm)",
+								"value" : 36,
+								"current_value" : 36,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Focal Length",
+								"type" : "float",
+								"label" : "Focal Length (mm)",
+								"value" : 65,
+								"current_value" : 35,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "DOF",
+								"type" : "bool",
+								"label" : "Depth of Field",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Depth of Field",
+								"type" : "float",
+								"label" : "Focal Distance",
+								"value" : 450,
+								"current_value" : 204.543,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Aperature",
+								"type" : "float",
+								"label" : "F/Stop",
+								"value" : 22,
+								"current_value" : 22,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Lens Thickness",
+								"type" : "float",
+								"label" : "Lens Thickness (mm)",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Camera"
+						},
+						{
+							"channel" : {
+								"id" : "Local Dimensions",
+								"type" : "bool",
+								"label" : "Use Local Dimensions",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "Dimension Preset",
+								"type" : "string",
+								"label" : "Dimension Preset",
+								"visible" : false,
+								"value" : "",
+								"current_value" : ""
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "Pixel Size",
+								"type" : "int2",
+								"label" : "Pixel Size",
+								"visible" : false,
+								"value" : [ 1800, 1200 ],
+								"current_value" : [ 1800, 1200 ],
+								"min" : 1,
+								"max" : 10000,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "Aspect Ratio",
+								"type" : "float2",
+								"label" : "Aspect Ratio",
+								"visible" : false,
+								"value" : [ 3, 2 ],
+								"current_value" : [ 3, 2 ],
+								"min" : 0.0001,
+								"max" : 10000,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "Constrain Proportions",
+								"type" : "bool",
+								"label" : "Constrain Proportions",
+								"visible" : false,
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Dimensions"
+						},
+						{
+							"channel" : {
+								"id" : "HeadlampMode",
+								"type" : "enum",
+								"label" : "Headlamp Mode",
+								"value" : 0,
+								"current_value" : 0,
+								"enum_values" : [ "Auto", "On", "Off" ]
+							},
+							"group" : "/Headlamp"
+						},
+						{
+							"channel" : {
+								"id" : "Headlamp Intensity",
+								"type" : "float",
+								"label" : "Headlamp Intensity",
+								"value" : 1,
+								"current_value" : 1,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Headlamp"
+						},
+						{
+							"channel" : {
+								"id" : "XHeadlampOffset",
+								"type" : "float",
+								"label" : "X Headlamp Offset",
+								"value" : -30,
+								"current_value" : -30,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Headlamp/Offset"
+						},
+						{
+							"channel" : {
+								"id" : "YHeadlamp",
+								"type" : "float",
+								"label" : "Y Headlamp Offset",
+								"value" : 20,
+								"current_value" : 20,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Headlamp/Offset"
+						},
+						{
+							"channel" : {
+								"id" : "ZHeadlampOffset",
+								"type" : "float",
+								"label" : "Z Headlamp Offset",
+								"value" : 0,
+								"current_value" : 0,
+								"min" : -10000,
+								"max" : 10000,
+								"step_size" : 1
+							},
+							"group" : "/Headlamp/Offset"
+						},
+						{
+							"channel" : {
+								"id" : "Display Persistence",
+								"type" : "bool",
+								"label" : "Display Persistence",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Display/Scene View/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Sight Line Opacity",
+								"type" : "float",
+								"label" : "Sight Line Opacity",
+								"value" : 0.3,
+								"current_value" : 0.3,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"display_as_percent" : true,
+								"step_size" : 0.01
+							},
+							"group" : "/Display/Scene View/Line of Sight"
+						},
+						{
+							"channel" : {
+								"id" : "Focal Point Scale",
+								"type" : "float",
+								"label" : "Focal Point Scale",
+								"value" : 1,
+								"current_value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"display_as_percent" : true,
+								"step_size" : 0.01
+							},
+							"group" : "/Display/Scene View/Line of Sight"
+						},
+						{
+							"channel" : {
+								"id" : "FOV Color",
+								"type" : "color",
+								"label" : "FOV Color",
+								"value" : [ 1, 1, 1 ],
+								"current_value" : [ 1, 1, 1 ],
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true
+							},
+							"group" : "/Display/Scene View/Field of View"
+						},
+						{
+							"channel" : {
+								"id" : "FOV Opacity",
+								"type" : "float",
+								"label" : "FOV Opacity",
+								"value" : 0.3,
+								"current_value" : 0.3,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"display_as_percent" : true,
+								"step_size" : 0.01
+							},
+							"group" : "/Display/Scene View/Field of View"
+						},
+						{
+							"channel" : {
+								"id" : "FOV Length",
+								"type" : "float",
+								"label" : "FOV Length",
+								"value" : 5,
+								"current_value" : 5,
+								"min" : 0,
+								"max" : 100,
+								"clamped" : true,
+								"step_size" : 0.1
+							},
+							"group" : "/Display/Scene View/Field of View"
+						},
+						{
+							"channel" : {
+								"id" : "DOF Plane Visibility",
+								"type" : "bool",
+								"label" : "DOF Plane Visibility",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Display/Scene View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "DOF Plane Color",
+								"type" : "color",
+								"label" : "DOF Plane Color",
+								"value" : [ 1, 1, 1 ],
+								"current_value" : [ 1, 1, 1 ],
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true
+							},
+							"group" : "/Display/Scene View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "DOF Overlay Color",
+								"type" : "color",
+								"label" : "DOF Overlay Color",
+								"value" : [ 1, 1, 1 ],
+								"current_value" : [ 1, 1, 1 ],
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true
+							},
+							"group" : "/Display/Camera View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "DOF Overlay Opacity",
+								"type" : "float",
+								"label" : "DOF Overlay Opacity",
+								"value" : 0.05,
+								"current_value" : 0.05,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"display_as_percent" : true,
+								"step_size" : 0.01
+							},
+							"group" : "/Display/Camera View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "Near DOF Plane Visibility",
+								"type" : "bool",
+								"label" : "Near DOF Plane Visibility",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Display/Camera View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "Far DOF Plane Visibility",
+								"type" : "bool",
+								"label" : "Far DOF Plane Visibility",
+								"value" : false,
+								"current_value" : false
+							},
+							"group" : "/Display/Camera View/Depth Of Field"
+						},
+						{
+							"channel" : {
+								"id" : "intensity",
+								"type" : "float",
+								"label" : "Intensity",
+								"value" : 1,
+								"current_value" : 1,
+								"min" : -1000,
+								"max" : 1000,
+								"step_size" : 0.01
+							},
+							"group" : "/Indirect Light [Camera] (1)"
+						},
+						{
+							"channel" : {
+								"id" : "tint",
+								"type" : "color",
+								"label" : "Indirect Tint",
+								"value" : [ 1, 1, 1 ],
+								"current_value" : [ 1, 1, 1 ],
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true
+							},
+							"group" : "/Indirect Light [Camera] (1)"
+						},
+						{
+							"channel" : {
+								"id" : "samples",
+								"type" : "int",
+								"label" : "Samples",
+								"value" : 64,
+								"current_value" : 64,
+								"min" : 1,
+								"max" : 2048,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/Indirect Light [Camera] (1)"
+						},
+						{
+							"channel" : {
+								"id" : "finalgather",
+								"type" : "bool",
+								"label" : "Do Final Gather",
+								"value" : true,
+								"current_value" : true
+							},
+							"group" : "/Indirect Light [Camera] (1)"
+						},
+						{
+							"channel" : {
+								"id" : "maxdist",
+								"type" : "float",
+								"label" : "Max Distance",
+								"value" : 1000000,
+								"current_value" : 1000000,
+								"min" : -1000,
+								"max" : 1000,
+								"step_size" : 0.01
+							},
+							"group" : "/Indirect Light [Camera] (1)"
+						},
+						{
+							"channel" : {
+								"id" : "mindepth",
+								"type" : "int",
+								"label" : "Min Depth",
+								"value" : 1,
+								"current_value" : 1,
+								"min" : 0,
+								"max" : 32,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/Indirect Light [Camera] (1)"
+						},
+						{
+							"channel" : {
+								"id" : "sampleMode",
+								"type" : "enum",
+								"label" : "Sample Mode",
+								"value" : 0,
+								"current_value" : 0,
+								"enum_values" : [ "Light Source", "Illuminance" ]
+							},
+							"group" : "/Indirect Light [Camera] (1)"
+						},
+						{
+							"channel" : {
+								"id" : "Illumination",
+								"type" : "enum",
+								"label" : "Illumination",
+								"value" : 3,
+								"current_value" : 3,
+								"enum_values" : [ "Off", "Diffuse Only", "Specular Only", "On" ]
+							},
+							"group" : "/Indirect Light [Camera] (1)"
+						}
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"nodes" : [
+			{
+				"id" : "Camera 5-1",
+				"url" : "#Camera%205",
+				"name" : "Camera 5",
+				"label" : "3DL Cam Bedroom 4",
+				"extra" : [
+					{
+						"type" : "studio/node/camera/daz_brick"
+					}
+				]
+			}
+		],
+		"current_camera" : "#Camera%205-1"
+	}
+}
