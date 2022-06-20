@@ -1,0 +1,79 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Mada/Showdown/Showdown%20Jacket/Morphs/Mada/Base/PHMCheekbonesArchSizeHD.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "Mada",
+			"email" : "",
+			"website" : "www.pixeldustvr.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2019-03-04T20:07:33Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "PHMCheekbonesArchSizeHD",
+			"name" : "PHMCheekbonesArchSizeHD",
+			"parent" : "/data/Mada/Showdown/Showdown%20Jacket/ShowdownJacket_7796.dsf#ShowdownJacket",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.4588235, 0.172549, 0.2156863 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Value",
+				"label" : "PHMCheekbonesArchSizeHD",
+				"auto_follow" : true,
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"display_as_percent" : true,
+				"step_size" : 0.01
+			},
+			"group" : "/Actor/Head/Face/Cheeks and Jaw/Real World",
+			"morph" : {
+				"vertex_count" : 7794,
+				"deltas" : {
+					"count" : 22,
+					"values" : [
+						[ 1851, 4.479384e-06, 1.721169e-05, 7.189132e-06 ],
+						[ 1852, 3.455093e-06, 1.686818e-05, 3.346621e-06 ],
+						[ 1856, -1.576553e-05, 7.455978e-05, 6.428514e-05 ],
+						[ 1857, 3.989339e-05, 5.983915e-05, 3.573498e-05 ],
+						[ 1858, -3.988363e-05, 0.0002228365, 0.0001854498 ],
+						[ 1859, 0.000163618, 0.0002627445, 0.0001194939 ],
+						[ 1860, -7.451967e-05, 0.0002704886, 0.0001907114 ],
+						[ 1861, 0.0001854545, 0.0003045829, 0.0001253089 ],
+						[ 1862, -1.991339e-05, 8.250413e-05, 5.612102e-05 ],
+						[ 1863, 4.660719e-05, 0.0001027813, 3.435467e-05 ],
+						[ 1923, 2.612597e-05, 4.534432e-05, 2.823959e-05 ],
+						[ 1924, 9.728852e-05, 0.0001445579, 0.0001009984 ],
+						[ 1926, 1.797801e-05, 2.828417e-05, 2.60359e-05 ],
+						[ 1931, -8.583703e-06, 1.535143e-05, 2.008877e-05 ],
+						[ 1936, -2.796276e-05, 5.85729e-05, 5.43173e-05 ],
+						[ 1937, -2.347665e-06, 1.498812e-05, 6.56115e-06 ],
+						[ 1941, -4.330997e-05, 7.627351e-05, 5.71763e-05 ],
+						[ 1942, -3.752119e-06, 1.501203e-05, 6.567764e-06 ],
+						[ 1949, -1.248583e-05, 3.08871e-05, 1.55759e-05 ],
+						[ 2955, 0.0001044261, 0.0001362672, 9.568092e-05 ],
+						[ 2956, 1.785249e-05, 1.512543e-05, 2.445061e-05 ],
+						[ 2959, 2.702458e-05, 6.005225e-05, 2.257841e-05 ]
+					]
+				}
+			}
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "PHMCheekbonesArchSizeHD-1",
+				"url" : "#PHMCheekbonesArchSizeHD"
+			}
+		]
+	}
+}
